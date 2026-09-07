@@ -101,14 +101,14 @@ Users can browse the available doctors and view their profiles.
 
 Users can book an appointment by providing:
 
-Full Name
-Email
-Phone Number
-Department
-Doctor
-Appointment Date
-Appointment Time
-Reason for Appointment
+- Full Name
+- Email
+- Phone Number
+- Department
+- Doctor
+- Appointment Date
+- Appointment Time
+- Reason for Appointment
 
 The appointment details are stored in the database.
 
