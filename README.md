@@ -116,11 +116,11 @@ The appointment details are stored in the database.
 
 Users can submit a message through the contact form by providing:
 
-**Name**
-**Email**
-Phone Number
-Subject
-Message
+- Name
+- Email
+- Phone Number
+- Subject
+- Message
 🗄️ Database
 
 The application uses SQLite as its database.
@@ -129,15 +129,15 @@ The application uses SQLite as its database.
 
 The appointment information includes:
 
-Full Name
-Email
-Phone Number
-Department
-Doctor
-Appointment Date
-Appointment Time
-Reason
-Contact
+- Full Name
+- Email
+- Phone Number
+- Department
+- Doctor
+- Appointment Date
+- Appointment Time
+- Reason
+- Contact
 
 The contact information includes:
 
