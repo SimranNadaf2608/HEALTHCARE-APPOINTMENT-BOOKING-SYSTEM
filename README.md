@@ -139,14 +139,14 @@ The appointment information includes:
 - Reason
 - Contact
 
-The contact information includes:
+## The contact information includes:
 
-Name
-Email
-Phone Number
-Subject
-Message
-Created Date and Time
+- Name
+- Email
+- Phone Number
+- Subject
+- Message
+- Created Date and Time
 🔐 Authentication
 
 ## MedConnect uses Django's built-in authentication system.
