@@ -116,8 +116,8 @@ The appointment details are stored in the database.
 
 Users can submit a message through the contact form by providing:
 
-Name
-Email
+**Name**
+**Email**
 Phone Number
 Subject
 Message
