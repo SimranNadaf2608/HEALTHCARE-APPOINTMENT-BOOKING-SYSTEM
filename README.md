@@ -162,9 +162,13 @@ Users must be authenticated to access the main application features.
 
 ## ⚙️ Installation
 Step 1: Clone the Repository
+```
 git clone https://github.com/SimranNadaf2608/HEALTHCARE-APPOINTMENT-BOOKING-SYSTEM.git
+```
 Step 2: Navigate to the Project
+```
 cd HEALTHCARE-APPOINTMENT-BOOKING-SYSTEM
+```
 Step 3: Create a Virtual Environment
 
 ## For Windows:
